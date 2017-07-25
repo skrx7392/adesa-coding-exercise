@@ -18,8 +18,7 @@ Thank you for participating in our exercise. For further information, please che
 Remember, do not hesitate to contact your recruiter for further assistance.
 
 ## Prerequisites
-- [Visual Studio 2015 Community Edition (update 3)](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx), or at least [.NET Framework 4.6](https://www.microsoft.com/en-us/download/details.aspx?id=48130) if you are doing the .Net coding exercise.
-- [Eclipse Neon](https://www.eclipse.org/downloads/) or newer, or equivalent. [Java 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) or newer if you are doing the Java coding exercise.. 
+- [Visual Studio 2015 Community Edition (update 3)](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx), or latest, with at least [.NET Framework 4.6](https://www.microsoft.com/en-us/download/details.aspx?id=48130).
 
 ## Our Values
 What makes our team unique and great at TEKSystems is our focus on code quality. We pride ourselves in having a great team with strong engineering practices skills. 
