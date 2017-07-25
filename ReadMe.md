@@ -36,7 +36,7 @@ Practice Director - Application Development and Management
 # Exercise
 The goal of this exercise is to review a provided program, and propose various solutions to improve the existing code considering criteria explained below.
 
-Estimated exercise length: 2h.
+Estimated exercise length: a minimum of 2h.
 
 ## About the provided program
 The provided program calculates tax and totals for shopping carts. It runs correctly, provides output demonstrating the business rules explained below, and include automated tests which provide a code coverage of ~90% (class `Program` excluded).
@@ -58,7 +58,7 @@ The current code is difficult to read and so to maintain. Furthermore evolutivit
 Amongst other things, we are interested in evaluating:
 * Design: 
 	* Object-oriented: respect of OOP and SOLID principles.
-	* Pattern: correct use and implementation of design patterns. 
+	* Pattern: correct use and implementation of design patterns.
 * Code quality: consistency and proficiency in coding style.
 	* Readability: code easy to read and understand.  
 	* Maintainability: code easy to maintain and to add new features.
@@ -68,14 +68,9 @@ Amongst other things, we are interested in evaluating:
 	* Object Mocking: mocking and/or fake are used efficiently.  
 * Solution structure: correct use of namespaces / packages.
 
-According to the criteria specified above, and ...
- * a) you are aiming at a *Lead* or *Architect* position, either:  
-  - Provide solution(s) you suggest as documentation, with or without diagrams (3 pages maximum with up to 3 diagrams).
-  - **Or** directly refactor the code. Anything, including automated tests, can be changed. You can completely rewrite the code if you like.
- * b) you are aiming at a *Developer* position:
-  - Directly refactor the code. Anything, including automated tests, can be changed. You can completely rewrite the code if you like.
+According to the criteria specified above, refactor directly the code. Anything, including automated tests, can be changed. You can completely rewrite the code if you like.
 
-Your solution (document, code, etc.) will be reviewed by a senior software developer.
+Your solution will be reviewed by a senior software developer.
 
 Keep in mind we are looking to understand how you perceive and approach code quality. As the code is intentionally flawed in various ways and given the limited amount of time, we do not expect your response to address all the problems or expect you to produce a comprehensive listing of all of them.
 So we encourage you to focus on areas which seem most critical to you, and you have a well-developed opinion as oppose covering aspects you might be less comfortable with.
@@ -86,7 +81,7 @@ Any feedback will be greatly appreciated.
 
 In order to finalize the submission process, you will need to push your changes to the remote server. If you're not familiar with Git, please look at [How to commit your code](#Commit-your-code).
 
-Finally, please email your recruiter and [AppsDevInterviewProcess@teksystems.com](mailto:AppsDevInterviewProcess@teksystems.com?cc=<recruiter>&subject=GitLab%20Coding%20Exercise%20Completion%20Notice&body=Hello,%0A%0AI%20have%20completed%20and%20pushed%20the%20assigned%20coding%20exercise%20on%20GitLab.%0A%0AI%20confirm%20that%20above%20pushed%20code%20summary%20is%20accurate.%20Please%20evaluate%20my%20final%20version%20of%20coding%20exercise.%0A%0ARegards, "AppsDevInterviewProcess@teksystems.com") and attach your pushed code summary of your coding exercise. 
+Finally, please email your recruiter and [AppsDevInterviewProcess@teksystems.com](mailto:AppsDevInterviewProcess@teksystems.com?cc=<insert-recruiter-email-address-here>&subject=GitLab%20Coding%20Exercise%20Completion%20Notice&body=Hello,%0A%0AI%20have%20completed%20and%20pushed%20the%20assigned%20coding%20exercise%20on%20GitLab.%0A%0AI%20confirm%20that%20above%20pushed%20code%20summary%20is%20accurate.%20Please%20evaluate%20my%20final%20version%20of%20coding%20exercise.%0A%0ARegards, "AppsDevInterviewProcess@teksystems.com") and attach your pushed code summary of your coding exercise.
 
 *Note:
 Once your recruiter receives notification that you have completed the exercise, your access to the Git server will be lost, along with your ability to submit any additional changes and feedback.
