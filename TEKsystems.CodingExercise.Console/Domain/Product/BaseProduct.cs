@@ -1,5 +1,6 @@
 ﻿
 using System;
+using TEKsystems.CodingExercise.Console.Domain.Enums;
 
 namespace TEKsystems.CodingExercise.Console.Domain.Product
 {
@@ -11,9 +12,9 @@ namespace TEKsystems.CodingExercise.Console.Domain.Product
 		
 		public decimal Price { get; set; }
 		
-        public bool IsImported { get; set; }
+        public EProductOrigin ProductOrigin { get; set; }
 
-	    public virtual bool IsTaxable => true;
+	    public virtual ETaxStatus TaxStatus => ETaxStatus.Taxable;
 
         public virtual decimal TaxRate => .1m;
 	}

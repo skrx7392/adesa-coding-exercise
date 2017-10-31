@@ -1,0 +1,12 @@
+C:\Users\sp617h\Source\Repos\dotnet-adesa-coding-exercise-template\TEKsystems.CodingExercise.Tests\bin\Debug\TEKsystems.CodingExercise.Tests.dll
+C:\Users\sp617h\Source\Repos\dotnet-adesa-coding-exercise-template\TEKsystems.CodingExercise.Tests\bin\Debug\TEKsystems.CodingExercise.Tests.pdb
+C:\Users\sp617h\Source\Repos\dotnet-adesa-coding-exercise-template\TEKsystems.CodingExercise.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\sp617h\Source\Repos\dotnet-adesa-coding-exercise-template\TEKsystems.CodingExercise.Tests\bin\Debug\TEKsystems.CodingExercise.Console.exe
+C:\Users\sp617h\Source\Repos\dotnet-adesa-coding-exercise-template\TEKsystems.CodingExercise.Tests\bin\Debug\TEKsystems.CodingExercise.Console.pdb
+C:\Users\sp617h\Source\Repos\dotnet-adesa-coding-exercise-template\TEKsystems.CodingExercise.Tests\bin\Debug\TEKsystems.CodingExercise.Console.exe.config
+C:\Users\sp617h\Source\Repos\dotnet-adesa-coding-exercise-template\TEKsystems.CodingExercise.Tests\obj\Debug\TEKsystems.CodingExercise.Tests.csprojResolveAssemblyReference.cache
+C:\Users\sp617h\Source\Repos\dotnet-adesa-coding-exercise-template\TEKsystems.CodingExercise.Tests\obj\Debug\TEKsystems.CodingExercise.Tests.csproj.CoreCompileInputs.cache
+C:\Users\sp617h\Source\Repos\dotnet-adesa-coding-exercise-template\TEKsystems.CodingExercise.Tests\obj\Debug\TEKsystems.CodingExercise.Tests.dll
+C:\Users\sp617h\Source\Repos\dotnet-adesa-coding-exercise-template\TEKsystems.CodingExercise.Tests\obj\Debug\TEKsystems.CodingExercise.Tests.pdb
+C:\Users\sp617h\Source\Repos\dotnet-adesa-coding-exercise-template\TEKsystems.CodingExercise.Tests\bin\Debug\Autofac.dll
+C:\Users\sp617h\Source\Repos\dotnet-adesa-coding-exercise-template\TEKsystems.CodingExercise.Tests\bin\Debug\Autofac.xml
