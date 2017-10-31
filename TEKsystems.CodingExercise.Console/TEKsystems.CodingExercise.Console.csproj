@@ -38,26 +38,44 @@
     <UseVSHostingProcess>false</UseVSHostingProcess>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Autofac, Version=4.6.2.0, Culture=neutral, PublicKeyToken=17863af14b0044da, processorArchitecture=MSIL">
+      <HintPath>..\packages\Autofac.4.6.2\lib\net45\Autofac.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConfigBuilder.cs" />
     <Compile Include="Domain\BaseDomain.cs" />
     <Compile Include="Domain\Cart.cs" />
+    <Compile Include="Domain\Enums\EProductOrigin.cs" />
+    <Compile Include="Domain\Enums\ETaxStatus.cs" />
     <Compile Include="Domain\Product\BaseProduct.cs" />
     <Compile Include="Domain\Product\Book.cs" />
     <Compile Include="Domain\Product\Food.cs" />
     <Compile Include="Domain\Product\Medical.cs" />
     <Compile Include="Domain\Product\Music.cs" />
     <Compile Include="Domain\Product\Perfume.cs" />
-    <Compile Include="Utility\Receipt.cs" />
-    <Compile Include="Utility\Taxes.cs" />
+    <Compile Include="Helpers\StaticHelperMethods.cs" />
+    <Compile Include="Interfaces\IReceiptUtility.cs" />
+    <Compile Include="Interfaces\ITaxesUtility.cs" />
+    <Compile Include="Utility\ReceiptUtility.cs" />
+    <Compile Include="Utility\TaxesUtility.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="Class Diagram.cd" />
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
